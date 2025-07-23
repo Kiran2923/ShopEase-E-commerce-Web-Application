@@ -1,5 +1,7 @@
 # ShopEase-E-commerce-Web-Application
 
+DURATION: Apr2025 - Jun2025
+
 Tech Stack: Python, Django, HTML, CSS, JavaScript, SQLite
 
 ShopEase is a fully functional e-commerce web application designed for real-time product browsing, cart management, and order placement. Built using Django’s MVT architecture, it supports secure user authentication, dynamic UI features, and a complete admin dashboard.
